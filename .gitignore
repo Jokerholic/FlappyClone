@@ -1,0 +1,8 @@
+.vs/
+.vscode/
+flappy_*/
+Library/
+Logs/
+obj/
+.DS_Store
+*.apk
